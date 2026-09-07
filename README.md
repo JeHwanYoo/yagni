@@ -17,6 +17,14 @@ Clone this git project into your skills folder.
 git clone https://github.com/JeHwanYoo/yagni.git <your-skills-folder>/yagni
 ```
 
+## Update
+
+Pull the latest changes from the git repository:
+
+```bash
+git -C <your-skills-folder>/yagni pull
+```
+
 ## Use
 
 ```text
