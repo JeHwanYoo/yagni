@@ -1,0 +1,4 @@
+interface:
+  display_name: "YAGNI"
+  short_description: "Cut speculative scope; keep design simple and coherent"
+  default_prompt: "Use $yagni to apply YAGNI, KISS, and DRY while preserving the complete requested outcome and required quality."
