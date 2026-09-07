@@ -4,7 +4,18 @@ An agent skill for reviewing plans, code, and workflows with YAGNI, KISS, and DR
 
 ## Install
 
-Copy `SKILL.md`, `references/`, and `agents/` into your agent's skills directory under `yagni/`.
+Clone this git project into your skills folder.
+
+```bash
+# Codex path: ~/.codex/skills/yagni
+# Claude path: ~/.claude/skills/yagni
+# Gemini path: ~/.gemini/skills/yagni
+# Cursor path: ~/.cursor/skills/yagni
+# Copilot path: ~/.copilot/skills/yagni
+# OpenCode path: ~/.config/opencode/skills/yagni
+
+git clone https://github.com/JeHwanYoo/yagni.git <your-skills-folder>/yagni
+```
 
 ## Use
 
